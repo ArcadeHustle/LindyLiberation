@@ -151,6 +151,27 @@ https://www.arcade-projects.com/forums/index.php?thread/11480-multi-lindbergh/
 
 # Stage Three: 
 
+Please remember the wise words of Mitsurugi_w "The info itself is not new or special. It's all over the web anyways" 
+
+Additional text relevant to this document can be found below: 
+
+"Internet Archive Gets DMCA Exemption To Help Archive Vintage Software"<br>
+"Computer programs and video games distributed in formats that have become obsolete and which require the original media or hardware as a condition of access."
+https://archive.org/about/dmca.php
+
+"a side effect of dongle-based access control is that legitimate access to the software may be prevented if the dongle is lost, malfunctioning, damaged or obsolete"<br>
+"thus cannot be archived without circumventing the dongle-based access control"
+https://web.archive.org/web/20060118092042/https://www.copyright.gov/1201/2003/reply/015.pdf
+
+Exemptions to Prohibition against Circumvention of Technological Measures Protecting Copyrighted Works<br>
+Seventh Triennial Section 1201 Final Rule, Effective October 28, 2018<br>
+"Video games in the form of computer programs, where outside server support has been discontinued, to allow individual play and preservation by an eligible library, archive, or museum"<br>
+https://library.osu.edu/document-registry/docs/1027/stream 
+
+"Video games in the form of computer programs, lawfully acquired as complete games 37 CFR §201.40(b)(12)"<br> 
+"For personal, local gameplay; or To allow preservation in a playable format..."<br>
+https://library.osu.edu/site/copyright/2019/03/20/2018-dmca-section-1201-exemptions-announced/ 
+
 Sega Lindbergh Hacking
 This document will serve as a reference guide to how the Sega Lindbergh works. The Sega Lindbergh is an arcade platform developed by Sega as a successor to the Sega NAOMI 2 arcade system. It was launched in 2005 and acted as Sega's "primary" arcade system until the release of the Sega RingEdge platform in 2009. Sega officially stopped supporting the system in 2018.
 
