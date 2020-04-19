@@ -14,7 +14,7 @@ Big thanks to Mitsurugi_w, Darksoft, MetalliC (p1pkin) and Brizzo (Nazarene) of 
 
 As of 6/3/19, contacting Technical@sega.co.uk and asking "Is Lindbergh still supported hardware?" will get the following answer:
 ```
-"From: Technical <Technical@sega.co.uk>
+From: Technical <Technical@sega.co.uk>
 To: xxxx
 Cc: Technical <Technical@sega.co.uk>
 Subject: RE: <Webpage Enquiry Lindbergh>
@@ -34,10 +34,10 @@ Sega Amusements International Ltd
 42 Barwell Business Park | Leatherhead Road
 Chessington | Surrey | KT9 2NY | United Kingdom
 T: +44 (0)208 391 8060 (Option 2) F: +44 (0)208 391 8099
-M:+447903 200749"
+M:+447903 200749
 ```
 
-"I have red, blue, yellow, silver"
+"I have red, blue, yellow, silver"<br>
 https://www.arcade-projects.com/forums/index.php?thread/2184-lindbergh-differences/&pageNo=1
 
 This means that the Lindbergh Blue series can be considered End of Life. 
