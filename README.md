@@ -64,7 +64,7 @@ Back in the early days we were one of few non hacked up multi's for Lindy! We al
 "We can sell you a kit with just VF5 Final Showdown for $145."
 https://www.arcade-projects.com/forums/index.php?thread/139-sega-lindbergh-help/
 
-About a week after we Formally introducing: DarkDawg Collaborations, we started selling the Lindy multi kit. 
+About a week after Formally introducing: DarkDawg Collaborations, we started selling the Lindy multi kit. 
 https://forums.arcade-museum.com/showthread.php?t=301907
 
 DarkDawg Collaborations Presents: DarkDawg Lindbergh Multigame Kit
