@@ -176,6 +176,8 @@ https://sega-lindbergh.blogspot.com/2017/05/tool-collection-for-lindbergh-arcade
 https://github.com/crediar/lindbergh (now gone)
 https://libraries.io/github/crediar/lindbergh (archived) 
 
+Long lost tools: https://github.com/ArcadeHustle/LindyLiberation/blob/master/makekey/main.cpp
+
 "Getting the inquiry bytes
 
 The extended inquiry 0xEC reply is required to create the keys. The easiest way is to use plscsi this exists for windows and linux and is very easy to use. Just send the following command to get the required bytes:
