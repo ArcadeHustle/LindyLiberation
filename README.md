@@ -45,7 +45,7 @@ This means that the Lindbergh Blue series can be considered End of Life.
 Enough StarHorse2 parts have been sold on Yahoo Auctions Japan, that it is a fair time to help folks attempting to restore these wonderful machines. 
 https://www.youtube.com/watch?v=aP7bx_g3yJo
 
-It is also clear that there are several closet Derby Oweners Club installations that require restoration work so people can still "Feel The Rush"! 
+It is also clear that there are several closet Derby Owners Club installations that require restoration work so people can still "Feel The Rush"! 
 https://segaretro.org/Derby_Owners_Club_2008:_Feel_the_Rush
 <center><img src="https://github.com/ArcadeHustle/LindyLiberation/blob/master/DerbyOwnersClub2008_logo.png"></img></center>
 
