@@ -37,7 +37,7 @@ T: +44 (0)208 391 8060 (Option 2) F: +44 (0)208 391 8099
 M:+447903 200749
 ```
 
-There are of course several Lindy variants, "I have red, blue, yellow, silver"<br>
+There are of course several Lindy variants, "I have red, blue, yellow, silver"!<br>
 https://www.arcade-projects.com/forums/index.php?thread/2184-lindbergh-differences/&pageNo=1
 
 This specifically means that the Lindbergh Blue series can be considered End of Life.<br>
