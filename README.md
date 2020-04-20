@@ -119,8 +119,7 @@ http://forum.arcadecontrols.com/index.php?topic=149079.0
 https://teknogods.github.io/compatibility/lindbergh-yellow.htm<br>
 https://teknogods.github.io/compatibility/lindbergh-red-ex.htm<br>
 
-"Until fall 2017, to own a multi you had to make a choice ... and go to the cashier!<br>
-Darksoft version with its original versions but its keyboard selection and the Jackalus version without keyboard but deemed less stable. 
+"Until fall 2017, to own a multi you had to make a choice ... and go to the cashier! Darksoft version with its original versions but its keyboard selection and the Jackalus version without keyboard but deemed less stable."<br> 
 https://sega-lindbergh-underground.blogspot.com/2019/01/multi-jackalus-crediar.html<br>
 https://translate.google.com/translate?sl=auto&tl=en&u=https%3A%2F%2Fsega-lindbergh-underground.blogspot.com%2F2019%2F01%2Fmulti-jackalus-crediar.html<br>
 
