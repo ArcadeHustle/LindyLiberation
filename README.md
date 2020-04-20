@@ -255,7 +255,9 @@ mssvhy
 
 ###### Run your own stuff
 
-Hook up a keyboard via USB and press CTRL+ALT+S to enter the BIOS. Enter the password: mssvhy Set "Boot Lock Sequence" in the Advanced tab to disabled."
+1. Hook up a keyboard via USB and press CTRL+ALT+S to enter the BIOS. 
+2. Enter the password: mssvhy 
+3. Set "Boot Lock Sequence" in the Advanced tab to disabled."
 
 #### Game DVDs
 Games are stored on installation DVDs. These contain a section of custom sega header data followed by an ISO file system with multiple partitions. As explained in the security chip section, one of these partitions contains a bash script to unencrypt the other partitions which contain the game data and executable.
