@@ -129,6 +129,9 @@ http://www.neo-arcadia.com/forum/viewtopic.php?t=61702
 "Sega Lindbergh nedir? MultiGame Kurulumu"
 http://www.commodore.gen.tr/forum/index.php?topic=15177.0
 
+cf_multi.bin (archive)
+https://archive.org/download/cf_multi
+
 DarkDawg Collaborations was able to protect their Kit very well and maximize profits, both via censorship, and amazing technical means. They were beautiful<br>
 https://forums.arcade-museum.com/showthread.php?t=269120<br>
 <img src="https://github.com/ArcadeHustle/LindyLiberation/blob/master/RetroLindyMulti.jpeg"></img>
