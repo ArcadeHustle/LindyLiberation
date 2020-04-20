@@ -343,4 +343,7 @@ Patched version does not support networking for some reason.
 For more info stop by Arcade Projects and hit the Lindy forums.<br>
 https://www.arcade-projects.com/forums/index.php?board/72-sega-lindbergh/
 
+Alternately submit a git issue for any problems, or additions you have for this document. 
+https://github.com/ArcadeHustle/LindyLiberation/issues
+
 
