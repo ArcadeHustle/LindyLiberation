@@ -123,8 +123,7 @@ https://teknogods.github.io/compatibility/lindbergh-red-ex.htm<br>
 https://sega-lindbergh-underground.blogspot.com/2019/01/multi-jackalus-crediar.html<br>
 https://translate.google.com/translate?sl=auto&tl=en&u=https%3A%2F%2Fsega-lindbergh-underground.blogspot.com%2F2019%2F01%2Fmulti-jackalus-crediar.html<br>
 
-And then Crediar posted download links for a new version. A post appeared on Arcade Project but quickly deleted by the administrators.<br>
-Official reason: system still in operation Unofficial reason: the multi still bring a lot of money to the two dealers holding the precious secret."
+And then Crediar posted download links for a new version. A post appeared on Arcade Project but quickly deleted by the administrators. Official reason: system still in operation Unofficial reason: the multi still bring a lot of money to the two dealers holding the precious secret."
 
 DarkDawg Collaborations was able to protect the Kit very well and maximize profits, both via censorship, and amazing technical means. They were beautiful<br>
 https://forums.arcade-museum.com/showthread.php?t=269120<br>
