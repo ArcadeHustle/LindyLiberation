@@ -203,44 +203,52 @@ Quote: The slow video might be the infamous nvidia cold bios bug? flash the bios
 #### JVS Card
 The JVS card is the main bit of proprietary hardware that sets the Lindbergh apart from a standard computer. A Linux driver for the card is installed on the operating system, and allows the games to communicate with memory stores on the card for saving settings, as well as the JVS line for talking to control interfaces.
 
+#### CF Card
+The CF card is locked with an ATA password. An ATA password (also known as the ATA Security Feature Set) is part of the ATA specification and allows two 32 byte passwords to be set on the drive; a User Password and a Master Password.
+
 #### Hard Disk Drive
 The HDD drive is locked with an ATA password. An ATA password (also known as the ATA Security Feature Set) is part of the ATA specification and allows two 32 byte passwords to be set on the drive; a User Password and a Master Password.
 
-// LINK TO HOW TO UNLOCK DRIVES SHOULD GO HERE //
+Crediar released tools and notes for unlocking both on Twitter, and on Github
 https://twitter.com/crediar/status/801159279952596992
-https://sega-lindbergh.blogspot.com/2017/05/tool-collection-for-lindbergh-arcade.html
 https://github.com/crediar/lindbergh (now gone)
 https://libraries.io/github/crediar/lindbergh (archived) 
 
-Long lost tools: https://github.com/ArcadeHustle/LindyLiberation/blob/master/makekey/main.cpp
+Long lost Crediar Lindbergh makekey tool: https://github.com/ArcadeHustle/LindyLiberation/blob/master/makekey/main.cpp
 
+##### Getting the inquiry bytes
 ```
-Getting the inquiry bytes
-
 The extended inquiry 0xEC reply is required to create the keys. The easiest way is to use plscsi this exists for windows and linux and is very easy to use. Just send the following command to get the required bytes:
 
 plscsi -v -p -x "85 08 0E 00 00 00 01 00 00 00 00 00 00 00 EC 00" -i x200 -t inq.bin
+```
 
-Unlocking Commands
+##### Unlocking Commands
 
 Each devices uses a slightly different unlock command again using plscsi will simplfiy things:
 
-Unlock Maxtor HDDs:
+###### Unlock Maxtor HDDs:
 
+```
 plscsi -v -p -x "85 0A 06 00 00 00 01 00 00 00 00 00 00 40 F2 00" -o x200 -f key.bin
+```
 
-Unlock ADTec CF cards:
+###### Unlock ADTec CF cards:
 
+```
 plscsi -v -p -x "85 0A 06 00 03 00 01 00 AB 00 00 00 00 00 82 00" -o x200 -f key.bin
+```
 
-Unlock SanDisk:
+###### Unlock SanDisk:
 
 The tool will create the bytes for you simply insert them between the ""s
 
+```
 plscsi -v -p -x ""
+```
 
-BIOS password
-
+###### BIOS password
+```
 mssvhy
 ```
 
@@ -266,10 +274,6 @@ mount -t iso9660 -o ro /dev/loop1 /mnt/cdrom/
 
 These two partitions are encrypted. One contains the game data, and the other will contain a bash script that will unencrypt the game data folder. The PIC chip is used to unencrypt the smaller partition with the bash file, which then uses faster decryption for the game. It’s easy to find most of the bash files that unencrypt the game partitions with static keys by finding pre-decrypted Lindbergh images online. Some games use the same decryption keys, so if you find a game that hasn’t yet been decrypted that could be one way to do it. This is explained in more detail in the security chip section.
 
-#### CF Card
-The CF card is locked with an ATA password. An ATA password (also known as the ATA Security Feature Set) is part of the ATA specification and allows two 32 byte passwords to be set on the drive; a User Password and a Master Password.
-
-// INCLUDE HOW TO UNLOCK CARD HERE //
 #### Sound Card
 The sound card is made by Creative, but is branded by Sega. Some of the games require this, and other output on the motherboards onboard audio out channels. I’m still unsure why Sega decided to add a dedicated sound card when the motherboard has one on already that supports 5.1 surround. Games do actively check for this card, so for example Let’s Go Jungle cannot be started without one (unless of course you patched it out).
 
