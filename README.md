@@ -148,7 +148,7 @@ https://www.youtube.com/watch?v=PfDUp-cfdb8
 
 Fast forward to today, and you'll notice Lindy Multi's are harder to find, and infomation on the platform is still scarce. 
 
-Some versions are very rarely mentioned at all these days...<br> 
+Some multi variants are very rarely mentioned at all these days...<br> 
 <img src="https://github.com/ArcadeHustle/LindyLiberation/blob/master/voldemort.jpeg"></img><br>
 "Le but de ce topic est de faire un point sur ce qu fait le multi boot Version Android (le créateur) en 3.20"<br>
 https://www.gamoover.net/Forums/index.php?topic=29522.0
