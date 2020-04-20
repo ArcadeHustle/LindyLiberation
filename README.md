@@ -109,26 +109,26 @@ https://twitter.com/reaverteknogods/<br>
 https://twitter.com/reaverteknogods/status/1072569187292381184<br>
 https://archive.f-secure.com/weblog/archives/Jarno_Niemela_its_signed.pdf
 
-Giansanti's Lindbergh work was done under the monikers Jackalus, Reaver, among others such a Junnumane, and Teknoparrot.<br>
+Giansanti's Lindbergh work was done under the monikers Jackalus, Reaver, among others such a Junnumane<br>
 https://www.instagram.com/junnumane/?hl=en<br>
 "I doubt he will reveal the technical secrets behind that hack as it might dry out his source of income from it, but I hope I am wrong."<br>
 http://forum.arcadecontrols.com/index.php?topic=149079.0
 
 (2017) “TeknoParrot Emulator Announcement”<br>
-[![TeknoParrot Emulator Announcement](https://img.youtube.com/vi/wNvxRa6crGE/0.jpg)](https://www.youtube.com/watch?v=wNvxRa6crGE)
+[![TeknoParrot Emulator Announcement](https://img.youtube.com/vi/wNvxRa6crGE/0.jpg)](https://www.youtube.com/watch?v=wNvxRa6crGE)<br>
 https://teknogods.github.io/compatibility/lindbergh-yellow.htm<br>
 https://teknogods.github.io/compatibility/lindbergh-red-ex.htm<br>
 
-https://sega-lindbergh-underground.blogspot.com/2019/01/multi-jackalus-crediar.html<br>
-https://translate.google.com/translate?sl=auto&tl=en&u=https%3A%2F%2Fsega-lindbergh-underground.blogspot.com%2F2019%2F01%2Fmulti-jackalus-crediar.html<br>
 "Until fall 2017, to own a multi you had to make a choice ... and go to the cashier!<br>
 Darksoft version with its original versions but its keyboard selection and the Jackalus version without keyboard but deemed less stable. 
+https://sega-lindbergh-underground.blogspot.com/2019/01/multi-jackalus-crediar.html<br>
+https://translate.google.com/translate?sl=auto&tl=en&u=https%3A%2F%2Fsega-lindbergh-underground.blogspot.com%2F2019%2F01%2Fmulti-jackalus-crediar.html<br>
 
 And then Crediar posted download links for a new version. A post appeared on Arcade Project but quickly deleted by the administrators.<br>
 Official reason: system still in operation<br>
 Unofficial reason: the multi still bring a lot of money to the two dealers holding the precious secret."
 
-We were able to protect our Kit very well and maximize profits, both via censorship, and amazing technical means. They were beautiful<br>
+DarkDawg Collaborations was able to protect the Kit very well and maximize profits, both via censorship, and amazing technical means. They were beautiful<br>
 https://forums.arcade-museum.com/showthread.php?t=269120<br>
 <img src="https://github.com/ArcadeHustle/LindyLiberation/blob/master/RetroLindyMulti.jpeg"></img>
 
