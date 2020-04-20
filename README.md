@@ -55,7 +55,8 @@ At first we didn't fully publish details on the kit, as usual contacting Mitsu v
 "Decided to remove this video to fix some things. Contact me for details."<br>
 https://forums.arcade-museum.com/showthread.php?t=301907 
 
-Although not widely discussed, some of you remembered "This wasn't developed by us, it was developed for us... agreement to sell as a kit in the Americas"<br>
+Although not widely discussed, some of you remembered:<br> 
+"This wasn't developed by us, it was developed for us... agreement to sell as a kit in the Americas"<br>
 "We will sell it in those regions, and provide support for it"<br>
 [![Mitsu slanging Lindy](https://img.youtube.com/vi/QEoRf_vhHUo/0.jpg)](https://www.youtube.com/watch?v=QEoRf_vhHUo?t=683)
 
