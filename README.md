@@ -74,8 +74,7 @@ DarkDawg Collaborations Presents: DarkDawg Lindbergh Multigame Kit<br>
 https://www.youtube.com/watch?v=QEoRf_vhHUo
 
 Mitsu also sold single games for archival purposes, in fact single game kits were actually hot for a few years!<br>
-"I can get you a single game kit probably.<br>
-What game do you want?"
+"I can get you a single game kit probably. What game do you want?"<br>
 https://www.arcade-projects.com/forums/index.php?thread/928-is-it-possible-to-un-multikit-a-lindbergh-multikit-multigame-system/<br>
 
 "We can sell you a kit with just VF5 Final Showdown for $145."<br>
