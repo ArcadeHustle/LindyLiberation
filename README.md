@@ -337,13 +337,13 @@ To create a bootable version of the Lindbergh operating system, with shell acces
 8. To run the test mode of a game, suffix it’s startup script with -t (works on most games). For example Lets Go Jungle test mode would be run with ‘./home/run.sh -t’.<br>
 
 #### Games
-Let’s Go Jungle<br>
+##### Let’s Go Jungle<br>
 Game uses the guns in reverse (x=y,y=x) to every other Sega gun game. Patching out the key chip check on this game is very simple, and without it runs fine with no key chip present. All online dumps seem to already be patched with the guns reversed and the key chip check taken out.
 
-Initial D 4/5<br>
+##### Initial D 4/5<br>
 Both InitialD games use a settings file to set up some of the settings and the Sync line on the JVS card.
 
-OutRun 2 SP<br>
+##### OutRun 2 SP<br>
 Patched version does not support networking for some reason.
 
 # Final Boss
