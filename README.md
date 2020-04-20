@@ -82,15 +82,14 @@ https://www.arcade-projects.com/forums/index.php?thread/928-is-it-possible-to-un
 https://www.arcade-projects.com/forums/index.php?thread/139-sega-lindbergh-help/
 
 # Stage Two:
-Over time the scene evolved and tools were shared. Discussions were often censored, and the tools always disappeared for some reason. 
-"some of you might know crediar, he does alot in the console scene and now released some cool tools for Lindbergh"
+Over time the scene evolved and tools were shared. Discussions were often censored, and the tools always disappeared.<br> 
+"some of you might know crediar, he does alot in the console scene and now released some cool tools for Lindbergh"<br>
 https://www.arcade-projects.com/forums/index.php?thread/2488-new-lindbergh-tools/
 
 An emulator even made a brief appearance that came and went quickly.
-
 https://github.com/JayFoxRox/Lindbergh-Emulator (Based on a GPL request) 
-https://www.reddit.com/r/emulation/comments/9s71zr/emulation_of_sega_lindbergh_its_on_the_way/
-"It was worked on by Jay, but he discontinued due to university etc."
+https://www.reddit.com/r/emulation/comments/9s71zr/emulation_of_sega_lindbergh_its_on_the_way/<br>
+"It was worked on by Jay, but he discontinued due to university etc."<br>
 https://assemblergames.org/viewtopic.php?t=2885
 
 There was quite a bit of contention over who's multi was *first*, and most importantly who's was *best*. 
