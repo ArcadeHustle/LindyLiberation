@@ -103,11 +103,11 @@ https://web.archive.org/web/20170708014939/http://www.neo-arcadia.com/forum/view
 "this multi does not come from Marco himself, it was produced by Jackalus (from the assemblergames site)."<br>
 https://www.gamoover.net/Forums/index.php?topic=29520.0
 
-Former F-secure Jr Anti-Malware Analyst Nico Giansanti eventually turned his work into a pay for play component of Teknoparrot.<br>
-https://www.linkedin.com/in/giansanti/
+Former F-secure Jr Anti-Malware Analyst Nico eventually turned his work into a pay for play component of Teknoparrot.<br>
+https://www.linkedin.com/in/giansanti/<br>
 https://twitter.com/reaverteknogods/<br>
 https://twitter.com/reaverteknogods/status/1072569187292381184<br>
-https://archive.f-secure.com/weblog/archives/Jarno_Niemela_its_signed.pdf<br>
+https://archive.f-secure.com/weblog/archives/Jarno_Niemela_its_signed.pdf
 
 Giansanti's Lindbergh work was done under the monikers Jackalus, Reaver, among others such a Junnumane, and Teknoparrot.<br>
 https://www.instagram.com/junnumane/?hl=en<br>
