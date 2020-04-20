@@ -51,7 +51,7 @@ It's also clear there are several Derby Owners Club installs that require restor
 
 Lucky for you, after nearly 7 years of sales, the DarkDawg Lindbergh Multigame Kit is no longer a viable cash cow, so we are comfortable sharing more info on the system.<br>
 
-At first we didn't fully publish details on the kit, as usual contacting Mitsu via DM is the way to have your needs fulfilled.<br>
+At first Mitsu didn't fully publish details on the kit, as usual contacting him via DM is the way to have your needs fulfilled.<br>
 "Decided to remove this video to fix some things. Contact me for details."<br>
 https://forums.arcade-museum.com/showthread.php?t=301907 
 
