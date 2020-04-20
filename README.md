@@ -146,13 +146,14 @@ Some of you out here STILL trying to dump it ;)<br>
 "Security pic dump?thank you"<br>
 https://www.youtube.com/watch?v=PfDUp-cfdb8
 
-Fast forward to today, and you'll notice they are harder to find. The most elusive is the "Niko" kit.<br>
-https://www.arcade-projects.com/forums/index.php?thread/935-lindbergh-nico-multigame-kit-loop-error/<br>
+Fast forward to today, and you'll notice Lindy Multi's are harder to find, and infomation on the platform is still scarce. 
 
-Other versions are very rarely mentioned...<br> 
+Some versions are very rarely mentioned at all these days...<br> 
 <img src="https://github.com/ArcadeHustle/LindyLiberation/blob/master/voldemort.jpeg"></img><br>
 "Le but de ce topic est de faire un point sur ce qu fait le multi boot Version Android (le créateur) en 3.20"<br>
 https://www.gamoover.net/Forums/index.php?topic=29522.0
+
+Other versions are once again disappearing all together. 
 
 https://www.arcade-projects.com/forums/index.php?thread/9128-lindbergh-help/<br>
 "I'm not sure if they're being sold anymore."
@@ -183,7 +184,7 @@ https://library.osu.edu/document-registry/docs/1027/stream
 "For personal, local gameplay; or To allow preservation in a playable format..."<br>
 https://library.osu.edu/site/copyright/2019/03/20/2018-dmca-section-1201-exemptions-announced/ 
 
-Sega Lindbergh Hacking
+Sega Lindbergh Hacking<br>
 This document will serve as a reference guide to how the Sega Lindbergh works. The Sega Lindbergh is an arcade platform developed by Sega as a successor to the Sega NAOMI 2 arcade system. It was launched in 2005 and acted as Sega's "primary" arcade system until the release of the Sega RingEdge platform in 2009. Sega officially stopped supporting the system in 2018.
 
 Hardware
