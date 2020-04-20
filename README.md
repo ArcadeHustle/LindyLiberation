@@ -41,7 +41,7 @@ There are of course several Lindy variants, "I have red, blue, yellow, silver"<b
 https://www.arcade-projects.com/forums/index.php?thread/2184-lindbergh-differences/&pageNo=1
 
 This specifically means that the Lindbergh Blue series can be considered End of Life.<br>
-<img src="https://github.com/ArcadeHustle/LindyLiberation/blob/master/lindbergh_blue.jpg">
+<img src="https://github.com/ArcadeHustle/LindyLiberation/blob/master/lindbergh_blue.jpg"><br></img>
 
 Enough StarHorse2 parts have been sold on YAJ, it is a fair time to help folks attempt to restore these wonderful machines.<br>
 [![Star Hourse 2](https://img.youtube.com/vi/aP7bx_g3yJo/0.jpg)](https://www.youtube.com/watch?v=aP7bx_g3yJo)
