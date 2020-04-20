@@ -49,7 +49,7 @@ Enough StarHorse2 parts have been sold on YAJ, it is a fair time to help folks a
 It's also clear there are several Derby Owners Club installs that require restoration work so people can still <a href="https://segaretro.org/Derby_Owners_Club_2008:_Feel_the_Rush">Feel The Rush"</a>!<br>
 <img src="https://github.com/ArcadeHustle/LindyLiberation/blob/master/DerbyOwnersClub2008_logo.png"></img>
 
-Lucky for you, after nearly 7 years of sales, the DarkDawg Lindbergh Multigame Kit is no longer a viable cash cow, so we are comfortable sharing more info on the system.<br>
+Lucky for you, after nearly 6 years of sales, the DarkDawg Lindbergh Multigame Kit is no longer a viable cash cow, so we are comfortable sharing more info on the system.<br>
 
 At first Mitsu didn't fully publish details on the kit, as usual contacting him via DM is the way to have your needs fulfilled.<br>
 "Decided to remove this video to fix some things. Contact me for details."<br>
