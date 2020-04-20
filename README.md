@@ -103,7 +103,7 @@ https://web.archive.org/web/20170708014939/http://www.neo-arcadia.com/forum/view
 "this multi does not come from Marco himself, it was produced by Jackalus (from the assemblergames site)."<br>
 https://www.gamoover.net/Forums/index.php?topic=29520.0
 
-Former f-secure Jr Malware Analyst Nico Giansanti eventually turned his Lindbergh work into a pay for play component of his Teknoparrot project.<br>
+Former f-secure Jr Anti-Malware Analyst Nico Giansanti eventually turned his Lindbergh work into a pay for play component of his Teknoparrot project.<br>
 https://twitter.com/reaverteknogods/<br>
 https://twitter.com/reaverteknogods/status/1072569187292381184<br>
 https://archive.f-secure.com/weblog/archives/Jarno_Niemela_its_signed.pdf<br>
