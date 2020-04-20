@@ -286,7 +286,8 @@ The security chip also contains a program that will communicate with the game at
 
 The PCI card in the Lindbergh contains memory that stores game settings. When a game starts up it’ll try and overwrite the settings with the default ones - this is usually patched out on the playable dumps.
 
-On GitHub there is some code that allows you to save and re-write the information on the PCI card. This software is said to be dangerous, and was recommended not to use it by the creator as it may brick your Lindbergh PCI card. The Jakulous multi however does use this technique even though it was recommended to be dangerous by its creator.
+On GitHub there is some code that allows you to save and re-write the information on the PCI card. This software is said to be dangerous, and was recommended not to use it by the creator as it may brick your Lindbergh PCI card. The Jakulous multi however does use this technique even though it was recommended to be dangerous by its creator.<br>
+https://github.com/JayFoxRox/lindbergh-tools/blob/master/Utilities/src/backup.c
 
 #### Software
 The next section will talk about the software that runs on the Lindbergh in order of the boot process.<br>
