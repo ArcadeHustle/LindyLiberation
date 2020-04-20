@@ -290,14 +290,14 @@ On GitHub there is some code that allows you to save and re-write the informatio
 
 #### Software
 The next section will talk about the software that runs on the Lindbergh in order of the boot process.<br>
-Boot Process<br>
-Bios<br>
-Grub<br>
-MontaVista Linux Init.d<br>
-SegaBoot (checks everything is in the right order before running the game)<br>
-Game<br>
-SegaBoot -t (the test mode (does no checks for HDD/CD etc))<br>
-Goto 5.<br>
+1. Boot Process<br>
+2. Bios<br>
+3. Grub<br>
+4. MontaVista Linux Init.d<br>
+5. SegaBoot (checks everything is in the right order before running the game)<br>
+6. Game<br>
+7. SegaBoot -t (the test mode (does no checks for HDD/CD etc))<br>
+8. Goto 5.<br>
 
 #### BIOS
 The BIOS can be accessed by plugging a keyboard into the Lindbergh system and pressing Ctrl + Alt + F1. The password for the BIOS is ‘mssvhy’, without the quotes.
