@@ -49,29 +49,32 @@ Enough StarHorse2 parts have been sold on YAJ, it is a fair time to help folks a
 It's also clear there are several Derby Owners Club installs that require restoration work so people can still <a href="https://segaretro.org/Derby_Owners_Club_2008:_Feel_the_Rush">Feel The Rush"</a>!<br>
 <img src="https://github.com/ArcadeHustle/LindyLiberation/blob/master/DerbyOwnersClub2008_logo.png"></img>
 
-Lucky for you, after nearly 7 years of sales, the WalsDawg Lindbergh Multi is no longer a viable cash cow, so we are comfortable sharing more info on the system. 
-"Decided to remove this video to fix some things. Contact me for details."
+Lucky for you, after nearly 7 years of sales, the DarkDawg Lindbergh Multigame Kit is no longer a viable cash cow, so we are comfortable sharing more info on the system.<br>
+
+At first we didn't fully publish details on the kit, as usual contacting Mitsu via DM is the way to have your needs fulfilled.<br>
+"Decided to remove this video to fix some things. Contact me for details."<br>
 https://forums.arcade-museum.com/showthread.php?t=301907 
 
-"This wasn't developed by us, it was developed for us... agreement to sell as a kit in the Americas"
-"We will sell it in those regions, and provide support for it"
-https://youtu.be/QEoRf_vhHUo?t=683
-"He's not the one that made it, he just acquired the rights to sell it, I could be wrong"
+Although not widely discussed, some of you remembered "This wasn't developed by us, it was developed for us... agreement to sell as a kit in the Americas"<br>
+"We will sell it in those regions, and provide support for it"<br>
+[![Mitsu slanging Lindy](https://img.youtube.com/vi/QEoRf_vhHUo/0.jpg)](https://www.youtube.com/watch?v=QEoRf_vhHUo?t=683)
+
+"He's not the one that made it, he just acquired the rights to sell it, I could be wrong"<br>
 https://youtu.be/UGPNoUuQrgk?t=149
 
-Back in the early days we were one of few non hacked up multi's for Lindy! We also sold single games for archival purposes. 
-"We sell a different version that does not have so many hacks and that stays more true to the original.'
-"We can sell you a kit with just VF5 Final Showdown for $145."
+Back in the early days DarkDawg Lindbergh Multigame Kit was one of few non hacked up multi's for Lindy! Mitsu also sold single games for archival purposes. <br>
+"We sell a different version that does not have so many hacks and that stays more true to the original.'<br>
+"We can sell you a kit with just VF5 Final Showdown for $145."<br>
 https://www.arcade-projects.com/forums/index.php?thread/139-sega-lindbergh-help/
 
-About a week after Formally introducing: DarkDawg Collaborations, we started selling the Lindy multi kit. 
+About a week after Formally introducing: DarkDawg Collaborations, Mitsu started selling the Lindy multi kit. <br>
 https://forums.arcade-museum.com/showthread.php?t=301907
 
-DarkDawg Collaborations Presents: DarkDawg Lindbergh Multigame Kit
+DarkDawg Collaborations Presents: DarkDawg Lindbergh Multigame Kit<br>
 https://www.youtube.com/watch?v=QEoRf_vhHUo
 
-Single game kits were actually hot for a few years too. 
-https://www.arcade-projects.com/forums/index.php?thread/928-is-it-possible-to-un-multikit-a-lindbergh-multikit-multigame-system/
+Single game kits were actually hot for a few years too.<br>
+https://www.arcade-projects.com/forums/index.php?thread/928-is-it-possible-to-un-multikit-a-lindbergh-multikit-multigame-system/<br>
 "I can get you a single game kit probably. What game do you want?"
 
 # Stage Two:
