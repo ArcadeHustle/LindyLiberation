@@ -217,9 +217,9 @@ https://libraries.io/github/crediar/lindbergh (archived)
 Long lost Crediar Lindbergh makekey tool: https://github.com/ArcadeHustle/LindyLiberation/blob/master/makekey/main.cpp
 
 ##### Getting the inquiry bytes
-```
-The extended inquiry 0xEC reply is required to create the keys. The easiest way is to use plscsi this exists for windows and linux and is very easy to use. Just send the following command to get the required bytes:
 
+The extended inquiry 0xEC reply is required to create the keys. The easiest way is to use plscsi this exists for windows and linux and is very easy to use. Just send the following command to get the required bytes:
+```
 plscsi -v -p -x "85 08 0E 00 00 00 01 00 00 00 00 00 00 00 EC 00" -i x200 -t inq.bin
 ```
 
