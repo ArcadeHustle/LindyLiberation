@@ -338,7 +338,9 @@ Both InitialD games use a settings file to set up some of the settings and the S
 OutRun 2 SP<br>
 Patched version does not support networking for some reason.
 
-For more info stop by AP and hit the Lindy forums. 
+# Final Boss
+
+For more info stop by Arcade Projects and hit the Lindy forums.<br>
 https://www.arcade-projects.com/forums/index.php?board/72-sega-lindbergh/
 
 
