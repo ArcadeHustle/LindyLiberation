@@ -199,9 +199,11 @@ Nvidia GeForce 6800<br>
 Nvidia GeForce 7800<br>
 
 Quote: The slow video might be the infamous nvidia cold bios bug? flash the bios on the card with the temp monitoring disabled, as it effects a lot of 7800gs (especially G71) - basically if the ambient temp is below 20 odd degrees, the card think it is overclocking and puts it in throttle mode (which is like 20% power), so games run extremely slooooow.
-JVS Card
+
+#### JVS Card
 The JVS card is the main bit of proprietary hardware that sets the Lindbergh apart from a standard computer. A Linux driver for the card is installed on the operating system, and allows the games to communicate with memory stores on the card for saving settings, as well as the JVS line for talking to control interfaces.
-Hard Disk Drive
+
+#### Hard Disk Drive
 The HDD drive is locked with an ATA password. An ATA password (also known as the ATA Security Feature Set) is part of the ATA specification and allows two 32 byte passwords to be set on the drive; a User Password and a Master Password.
 
 // LINK TO HOW TO UNLOCK DRIVES SHOULD GO HERE //
@@ -270,7 +272,8 @@ The CF card is locked with an ATA password. An ATA password (also known as the A
 // INCLUDE HOW TO UNLOCK CARD HERE //
 #### Sound Card
 The sound card is made by Creative, but is branded by Sega. Some of the games require this, and other output on the motherboards onboard audio out channels. I’m still unsure why Sega decided to add a dedicated sound card when the motherboard has one on already that supports 5.1 surround. Games do actively check for this card, so for example Let’s Go Jungle cannot be started without one (unless of course you patched it out).
-Security Chip
+
+#### Security Chip
 The Security chip in the Lindbergh is a PIC microcontroller which is connected via a Parallel port exposed on the front of the system. It contains the key needed to decrypt the contents of the smaller data partition from the partitions stored on the installation CD or HDD. Only one partition of the data is encrypted by the PIC Microcontroller, and this partition once decrypted contains a bash script which will unencrypt the rest of the partitions on the drive which contain the game data.
 
 It is interesting to note that some games share the same internal encryption keys used by the bash script. For example Let’s Go Jungle and Let’s Go Jungle Special don’t share the same PIC security chip, however they do share the same internal encryption keys. This means that Let’s Go Jungle Special can be played even though we don’t have access to the original PIC chip.
