@@ -252,7 +252,8 @@ plscsi -v -p -x ""
 mssvhy
 ```
 
-Run your own stuff
+
+###### Run your own stuff
 
 Hook up a keyboard via USB and press CTRL+ALT+S to enter the BIOS. Enter the password: mssvhy Set "Boot Lock Sequence" in the Advanced tab to disabled."
 
