@@ -86,73 +86,74 @@ Over time the scene evolved and tools were shared. Discussions were often censor
 "some of you might know crediar, he does alot in the console scene and now released some cool tools for Lindbergh"<br>
 https://www.arcade-projects.com/forums/index.php?thread/2488-new-lindbergh-tools/
 
-An emulator even made a brief appearance that came and went quickly.
-https://github.com/JayFoxRox/Lindbergh-Emulator (Based on a GPL request) 
+An emulator even made a brief appearance that came and went quickly.<br>
+https://github.com/JayFoxRox/Lindbergh-Emulator (Based on a GPL request)<br>
 https://www.reddit.com/r/emulation/comments/9s71zr/emulation_of_sega_lindbergh_its_on_the_way/<br>
 "It was worked on by Jay, but he discontinued due to university etc."<br>
 https://assemblergames.org/viewtopic.php?t=2885
 
 There was quite a bit of contention over who's multi was *first*, and most importantly who's was *best*. 
 
+"Long story short : 2 multis, one by Android ("authorization" sold to Darksoft & Mitsu who still sell kits here) and one by Jackalus (sold by mar.veto). Android claims Jackalus has hacked his hack to make his multi (multi is just a hack)."<br>
 https://www.arcade-projects.com/forums/index.php?thread/3921-ringedge-2-multi-legit/&postID=116115#post116115
-"Long story short : 2 multis, one by Android ("authorization" sold to Darksoft & Mitsu who still sell kits here) and one by Jackalus (sold by mar.veto). Android claims Jackalus has hacked his hack to make his multi (multi is just a hack)."
 
+"my name is Marco and I am from Italy... For sale Yellow Lindbergh with multigame installed (customized cf card + 80gb hdd +sec chip) on it"<br>
 https://web.archive.org/web/20170708014939/http://www.neo-arcadia.com/forum/viewtopic.php?f=9&t=41853
-"my name is Marco and I am from Italy... For sale Yellow Lindbergh with multigame installed (customized cf card + 80gb hdd +sec chip) on it"
 
-"this multi does not come from Marco himself, it was produced by Jackalus (from the assemblergames site)."
+"this multi does not come from Marco himself, it was produced by Jackalus (from the assemblergames site)."<br>
 https://www.gamoover.net/Forums/index.php?topic=29520.0
 
-Former f-secure Jr Malware Analyst Nico Giansanti eventually turned his Lindbergh work into a pay for play component of his Teknoparrot project. 
-https://twitter.com/reaverteknogods/
-https://twitter.com/reaverteknogods/status/1072569187292381184
-https://archive.f-secure.com/weblog/archives/Jarno_Niemela_its_signed.pdf
+Former f-secure Jr Malware Analyst Nico Giansanti eventually turned his Lindbergh work into a pay for play component of his Teknoparrot project.<br>
+https://twitter.com/reaverteknogods/<br>
+https://twitter.com/reaverteknogods/status/1072569187292381184<br>
+https://archive.f-secure.com/weblog/archives/Jarno_Niemela_its_signed.pdf<br>
 https://www.linkedin.com/in/giansanti/
 
-Giansanti's Lindbergh work was done under the monikers Jackalus, Reaver, among others such a Junnumane, and Teknoparrot. 
-https://www.instagram.com/junnumane/?hl=en
-"I doubt he will reveal the technical secrets behind that hack as it might dry out his source of income from it, but I hope I am wrong."
+Giansanti's Lindbergh work was done under the monikers Jackalus, Reaver, among others such a Junnumane, and Teknoparrot.<br>
+https://www.instagram.com/junnumane/?hl=en<br>
+"I doubt he will reveal the technical secrets behind that hack as it might dry out his source of income from it, but I hope I am wrong."<br>
 http://forum.arcadecontrols.com/index.php?topic=149079.0
 
-(2017) “TeknoParrot Emulator Announcement” https://www.youtube.com/watch?v=wNvxRa6crGE
-https://teknogods.github.io/compatibility/lindbergh-yellow.htm
-https://teknogods.github.io/compatibility/lindbergh-red-ex.htm
+(2017) “TeknoParrot Emulator Announcement”<br>
+[![TeknoParrot Emulator Announcement](https://img.youtube.com/vi/wNvxRa6crGE/0.jpg)](https://www.youtube.com/watch?v=wNvxRa6crGE)
+https://teknogods.github.io/compatibility/lindbergh-yellow.htm<br>
+https://teknogods.github.io/compatibility/lindbergh-red-ex.htm<br>
 
-https://sega-lindbergh-underground.blogspot.com/2019/01/multi-jackalus-crediar.html
-https://translate.google.com/translate?sl=auto&tl=en&u=https%3A%2F%2Fsega-lindbergh-underground.blogspot.com%2F2019%2F01%2Fmulti-jackalus-crediar.html
-"Until fall 2017, to own a multi you had to make a choice ... and go to the cashier! 
+https://sega-lindbergh-underground.blogspot.com/2019/01/multi-jackalus-crediar.html<br>
+https://translate.google.com/translate?sl=auto&tl=en&u=https%3A%2F%2Fsega-lindbergh-underground.blogspot.com%2F2019%2F01%2Fmulti-jackalus-crediar.html<br>
+"Until fall 2017, to own a multi you had to make a choice ... and go to the cashier!<br>
 Darksoft version with its original versions but its keyboard selection and the Jackalus version without keyboard but deemed less stable. 
 
-And then Crediar posted download links for a new version. A post appeared on Arcade Project but quickly deleted by the administrators. 
-Official reason: system still in operation 
+And then Crediar posted download links for a new version. A post appeared on Arcade Project but quickly deleted by the administrators.<br>
+Official reason: system still in operation<br>
 Unofficial reason: the multi still bring a lot of money to the two dealers holding the precious secret."
 
-We were able to protect our Kit very well and maximize profits, both via censorship, and amazing technical means. They were beautiful
-https://forums.arcade-museum.com/showthread.php?t=269120
+We were able to protect our Kit very well and maximize profits, both via censorship, and amazing technical means. They were beautiful<br>
+https://forums.arcade-museum.com/showthread.php?t=269120<br>
 <img src="https://github.com/ArcadeHustle/LindyLiberation/blob/master/RetroLindyMulti.jpeg"></img>
 
-"So the multikits have a specific CF card and PIC. The CF card is locked so it can't be read and duplicated. Same with the PIC. The multikits were designed to be sold so the PIC is not interchangeable."
+"So the multikits have a specific CF card and PIC. The CF card is locked so it can't be read and duplicated. Same with the PIC. The multikits were designed to be sold so the PIC is not interchangeable."<br>
 https://www.arcade-projects.com/forums/index.php?thread/928-is-it-possible-to-un-multikit-a-lindbergh-multikit-multigame-system/
 
-Haha anyone still on "DDLindy 7.0"? 
+Haha anyone still on "DDLindy 7.0"?<br>
 https://youtu.be/msBUzvSZ_lw?t=187
 
-Some of you out here STILL trying to dump it ;) 
-"Security pic dump?thank you"
+Some of you out here STILL trying to dump it ;)<br>
+"Security pic dump?thank you"<br>
 https://www.youtube.com/watch?v=PfDUp-cfdb8
 
-Fast forward to today, and you'll notice they are harder to find. The most elusive is the "Niko" kit. 
-https://www.arcade-projects.com/forums/index.php?thread/935-lindbergh-nico-multigame-kit-loop-error/
+Fast forward to today, and you'll notice they are harder to find. The most elusive is the "Niko" kit.<br>
+https://www.arcade-projects.com/forums/index.php?thread/935-lindbergh-nico-multigame-kit-loop-error/<br>
 
-Other versions are very rarely mentioned... 
-<img src="https://github.com/ArcadeHustle/LindyLiberation/blob/master/voldemort.jpeg"></img>
-"Le but de ce topic est de faire un point sur ce qu fait le multi boot Version Android (le créateur) en 3.20"
+Other versions are very rarely mentioned...<br> 
+<img src="https://github.com/ArcadeHustle/LindyLiberation/blob/master/voldemort.jpeg"></img><br>
+"Le but de ce topic est de faire un point sur ce qu fait le multi boot Version Android (le créateur) en 3.20"<br>
 https://www.gamoover.net/Forums/index.php?topic=29522.0
 
-https://www.arcade-projects.com/forums/index.php?thread/9128-lindbergh-help/
+https://www.arcade-projects.com/forums/index.php?thread/9128-lindbergh-help/<br>
 "I'm not sure if they're being sold anymore."
 
-https://www.arcade-projects.com/forums/index.php?thread/11480-multi-lindbergh/
+https://www.arcade-projects.com/forums/index.php?thread/11480-multi-lindbergh/<br>
 "You wont find that here. Try in assemblergames or eBay. They pop up from time to time."
 
 # Stage Three: 
