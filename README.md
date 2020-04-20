@@ -209,9 +209,9 @@ The CF card is locked with an ATA password. An ATA password (also known as the A
 #### Hard Disk Drive
 The HDD drive is locked with an ATA password. An ATA password (also known as the ATA Security Feature Set) is part of the ATA specification and allows two 32 byte passwords to be set on the drive; a User Password and a Master Password.
 
-Crediar released tools and notes for unlocking both on Twitter, and on Github
-https://twitter.com/crediar/status/801159279952596992
-https://github.com/crediar/lindbergh (now gone)
+Crediar released tools and notes for unlocking both on Twitter, and on Github<br>
+https://twitter.com/crediar/status/801159279952596992<br>
+https://github.com/crediar/lindbergh (now gone)<br>
 https://libraries.io/github/crediar/lindbergh (archived) 
 
 Long lost Crediar Lindbergh makekey tool: https://github.com/ArcadeHustle/LindyLiberation/blob/master/makekey/main.cpp
