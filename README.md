@@ -263,14 +263,18 @@ Although there are multiple partitions, most games only use one partition to sto
 
 Probably should try this and explain better, but this is how you get the data from the DVDS:
 
-Mount the DVD drive from a USB Drive
-Using a hex editor to search the raw image for “CD001” (ISO Marker), this is found at 0x288000 and 0x390000 on HOTD4.
-Subtract 32768 (0x8000) as per the ISO9660 standard (en.wikipedia.org/wiki/ISO_9660)
+1. Mount the DVD drive from a USB Drive<br>
+2. Using a hex editor to search the raw image for “CD001” (ISO Marker), this is found at 0x288000 and 0x390000 on HOTD4.<br>
+3. Subtract 32768 (0x8000) as per the ISO9660 standard (en.wikipedia.org/wiki/ISO_9660)<br>
+```
 0x288000 - 0x8000 = 0x280000 = 2621440
 0x390000 - 0x8000 =  3702784
-On a linux machine you can then mount these:
+```
+4. On a linux machine you can then mount these:
+```
 losetup -o 2621440 /dev/loop1 /dev/scd0
 mount -t iso9660 -o ro /dev/loop1 /mnt/cdrom/
+```
 
 These two partitions are encrypted. One contains the game data, and the other will contain a bash script that will unencrypt the game data folder. The PIC chip is used to unencrypt the smaller partition with the bash file, which then uses faster decryption for the game. It’s easy to find most of the bash files that unencrypt the game partitions with static keys by finding pre-decrypted Lindbergh images online. Some games use the same decryption keys, so if you find a game that hasn’t yet been decrypted that could be one way to do it. This is explained in more detail in the security chip section.
 
@@ -320,14 +324,14 @@ The ‘Game Test Mode’ option is only available if the file ‘test’ is avai
 Making a bootable development OS
 To create a bootable version of the Lindbergh operating system, with shell access do the following:
 
-Obtain a copy of the Linux image from a Lindbergh CF card. There are different versions labeled Rev A to Rev D. Rev A and B run the 2.4 Linux kernel, whilst all other revisions run the 2.6 Linux kernel. Games generally function much better on their respective original kernels.
-Using a command like ‘dd’, write the CF image to a hard disk drive. You may want to write the image to a Sata HDD now that you can use the Sata port on the motherboard. Although this sometimes works, a lot of games don’t work properly through the Sata port and will experience slow downs and issues. A Sata to IDE converter can be used so that you can use an SSD, but it’s pretty trial and error which brands work.
-You will see there are two partitions on the newly created boot drive. One is smaller and contains GRUB1. The other contains the kernel and other files used for the Lindbergh OS. At this point you should enlarge the OS partition to fill the entire HDD. This can be done with something like GParted.
-Mount the OS partition and navigate to ‘/etc/init.d/killallx.sh’. This is one of the last bash files which runs during the boot process. At the bottom of this add the line ‘./bash’. This will cause the system to run bash instead of the segaboot executable that is normally started. If you type ‘exit’ into the bash prompt, the system will continue to boot up.
-Folders containing data can now be placed onto the drive. I normally placed them under ‘/usr/games/’.
-Insert the drive into the Lindbergh and boot up the system. Follow the BIOS section of this guide to learn how to boot from unlocked drives.
-Games run from the ‘/home’ folder and should be symlinked there before they are run. Start by removing the home folder by typing ‘rm -rf /home’. Now symlink a game to the home directory by typing ‘ln -s /usr/games/lets-go-jungle /home’. Now you can run the game executable from home by typing ‘./home/run.sh’.
-To run the test mode of a game, suffix it’s startup script with -t (works on most games). For example Lets Go Jungle test mode would be run with ‘./home/run.sh -t’.
+1. Obtain a copy of the Linux image from a Lindbergh CF card. There are different versions labeled Rev A to Rev D. Rev A and B run the 2.4 Linux kernel, whilst all other revisions run the 2.6 Linux kernel. Games generally function much better on their respective original kernels. <br>
+2. Using a command like ‘dd’, write the CF image to a hard disk drive. You may want to write the image to a Sata HDD now that you can use the Sata port on the motherboard. Although this sometimes works, a lot of games don’t work properly through the Sata port and will experience slow downs and issues. A Sata to IDE converter can be used so that you can use an SSD, but it’s pretty trial and error which brands work.<br>
+3. You will see there are two partitions on the newly created boot drive. One is smaller and contains GRUB1. The other contains the kernel and other files used for the Lindbergh OS. At this point you should enlarge the OS partition to fill the entire HDD. This can be done with something like GParted.<br>
+4. Mount the OS partition and navigate to ‘/etc/init.d/killallx.sh’. This is one of the last bash files which runs during the boot process. At the bottom of this add the line ‘./bash’. This will cause the system to run bash instead of the segaboot executable that is normally started. If you type ‘exit’ into the bash prompt, the system will continue to boot up.<br>
+5. Folders containing data can now be placed onto the drive. I normally placed them under ‘/usr/games/’.<br>
+6. Insert the drive into the Lindbergh and boot up the system. Follow the BIOS section of this guide to learn how to boot from unlocked drives.<br>
+7. Games run from the ‘/home’ folder and should be symlinked there before they are run. Start by removing the home folder by typing ‘rm -rf /home’. Now symlink a game to the home directory by typing ‘ln -s /usr/games/lets-go-jungle /home’. Now you can run the game executable from home by typing ‘./home/run.sh’.<br>
+8. To run the test mode of a game, suffix it’s startup script with -t (works on most games). For example Lets Go Jungle test mode would be run with ‘./home/run.sh -t’.<br>
 
 #### Games
 Let’s Go Jungle<br>
