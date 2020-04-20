@@ -185,7 +185,7 @@ https://library.osu.edu/document-registry/docs/1027/stream
 https://library.osu.edu/site/copyright/2019/03/20/2018-dmca-section-1201-exemptions-announced/ 
 
 ## Sega Lindbergh Hacking<br>
-This document will serve as a reference guide to how the Sega Lindbergh works. The Sega Lindbergh is an arcade platform developed by Sega as a successor to the Sega NAOMI 2 arcade system. It was launched in 2005 and acted as Sega's "primary" arcade system until the release of the Sega RingEdge platform in 2009. Sega officially stopped supporting the system in 2018.
+This document will serve as a reference guide to how the Sega Lindbergh works. The Sega Lindbergh is an arcade platform developed by Sega as a successor to the Sega NAOMI 2 arcade system. It was launched in 2005 and acted as Sega's "primary" arcade system until the release of the Sega RingEdge platform in 2009. Sega officially stopped supporting some versions of the system in 2018.
 
 Hardware
 Motherboard
