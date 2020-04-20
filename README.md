@@ -132,7 +132,7 @@ http://www.commodore.gen.tr/forum/index.php?topic=15177.0
 Crediar cf_multi.bin (archive)<br>
 https://archive.org/download/cf_multi
 
-DarkDawg Collaborations was able to protect their Kit very well and maximize profits, both via censorship, and amazing technical means. They were beautiful<br>
+DarkDawg Collaborations was able to protect their Kit very well and maximize profits, both via censorship, and amazing technical means. They were beautiful!<br>
 https://forums.arcade-museum.com/showthread.php?t=269120<br>
 <img src="https://github.com/ArcadeHustle/LindyLiberation/blob/master/RetroLindyMulti.jpeg"></img>
 
