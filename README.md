@@ -12,7 +12,7 @@ Big thanks to Mitsurugi_w, Darksoft, MetalliC (p1pkin) and Brizzo (Nazarene) of 
 
 # Stage One:
 
-As of 6/3/19, contacting Technical@sega.co.uk and asking "Is Lindbergh still supported hardware?" will get the following answer:
+As of 6/3/19, asking Technical@sega.co.uk "Is Lindbergh still supported hardware?" will prompt the following answer:
 ```
 From: Technical <Technical@sega.co.uk>
 To: xxxx
@@ -37,18 +37,17 @@ T: +44 (0)208 391 8060 (Option 2) F: +44 (0)208 391 8099
 M:+447903 200749
 ```
 
-"I have red, blue, yellow, silver"<br>
+There are of several Lindy variants, "I have red, blue, yellow, silver"<br>
 https://www.arcade-projects.com/forums/index.php?thread/2184-lindbergh-differences/&pageNo=1
 
-This means that the Lindbergh Blue series can be considered End of Life. 
-<center><img src="https://github.com/ArcadeHustle/LindyLiberation/blob/master/lindbergh_blue.jpg"></img></center>
+This specifically means that the Lindbergh Blue series can be considered End of Life.<br>
+<img src="https://github.com/ArcadeHustle/LindyLiberation/blob/master/lindbergh_blue.jpg"></img>
 
-Enough StarHorse2 parts have been sold on Yahoo Auctions Japan, that it is a fair time to help folks attempting to restore these wonderful machines. 
-https://www.youtube.com/watch?v=aP7bx_g3yJo
+Enough StarHorse2 parts have been sold on Yahoo Auctions Japan, that it is a fair time to help folks attempting to restore these wonderful machines.<br>
+[![Star Hourse 2](https://img.youtube.com/vi/aP7bx_g3yJo/0.jpg)](https://www.youtube.com/watch?v=aP7bx_g3yJo)
 
-It is also clear that there are several closet Derby Owners Club installations that require restoration work so people can still "Feel The Rush"! 
-https://segaretro.org/Derby_Owners_Club_2008:_Feel_the_Rush
-<center><img src="https://github.com/ArcadeHustle/LindyLiberation/blob/master/DerbyOwnersClub2008_logo.png"></img></center>
+It is also clear that there are several closet Derby Owners Club installations that require restoration work so people can still <a href="https://segaretro.org/Derby_Owners_Club_2008:_Feel_the_Rush">Feel The Rush"!</a><br>
+<img src="https://github.com/ArcadeHustle/LindyLiberation/blob/master/DerbyOwnersClub2008_logo.png"></img>
 
 Lucky for you, after nearly 7 years of sales, the WalsDawg Lindbergh Multi is no longer a viable cash cow, so we are comfortable sharing more info on the system. 
 "Decided to remove this video to fix some things. Contact me for details."
@@ -124,7 +123,7 @@ Unofficial reason: the multi still bring a lot of money to the two dealers holdi
 
 We were able to protect our Kit very well and maximize profits, both via censorship, and amazing technical means. They were beautiful
 https://forums.arcade-museum.com/showthread.php?t=269120
-<center><img src="https://github.com/ArcadeHustle/LindyLiberation/blob/master/RetroLindyMulti.jpeg"></img></center>
+<img src="https://github.com/ArcadeHustle/LindyLiberation/blob/master/RetroLindyMulti.jpeg"></img>
 
 "So the multikits have a specific CF card and PIC. The CF card is locked so it can't be read and duplicated. Same with the PIC. The multikits were designed to be sold so the PIC is not interchangeable."
 https://www.arcade-projects.com/forums/index.php?thread/928-is-it-possible-to-un-multikit-a-lindbergh-multikit-multigame-system/
@@ -140,7 +139,7 @@ Fast forward to today, and you'll notice they are harder to find. The most elusi
 https://www.arcade-projects.com/forums/index.php?thread/935-lindbergh-nico-multigame-kit-loop-error/
 
 Other versions are very rarely mentioned... 
-<center><img src="https://github.com/ArcadeHustle/LindyLiberation/blob/master/voldemort.jpeg"></img></center>
+<img src="https://github.com/ArcadeHustle/LindyLiberation/blob/master/voldemort.jpeg"></img>
 "Le but de ce topic est de faire un point sur ce qu fait le multi boot Version Android (le créateur) en 3.20"
 https://www.gamoover.net/Forums/index.php?topic=29522.0
 
