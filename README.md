@@ -97,7 +97,7 @@ There was quite a bit of contention over who's multi was *first*, and most impor
 "Long story short : 2 multis, one by Android ("authorization" sold to Darksoft & Mitsu who still sell kits here) and one by Jackalus (sold by mar.veto). Android claims Jackalus has hacked his hack to make his multi (multi is just a hack)."<br>
 https://www.arcade-projects.com/forums/index.php?thread/3921-ringedge-2-multi-legit/&postID=116115#post116115
 
-"my name is Marco and I am from Italy... For sale Yellow Lindbergh with multigame installed (customized cf card + 80gb hdd +sec chip) on it"<br>
+"my name is Marco and I am from Italy... For sale Yellow Lindbergh with multigame installed..."<br>
 https://web.archive.org/web/20170708014939/http://www.neo-arcadia.com/forum/viewtopic.php?f=9&t=41853
 
 "this multi does not come from Marco himself, it was produced by Jackalus (from the assemblergames site)."<br>
