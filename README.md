@@ -63,9 +63,8 @@ https://youtu.be/QEoRf_vhHUo?t=683
 "He's not the one that made it, he just acquired the rights to sell it, I could be wrong"<br>
 https://youtu.be/UGPNoUuQrgk?t=149
 
-Back in the early days DarkDawg Lindbergh Multigame Kit was one of few non hacked up multi's for Lindy! Mitsu also sold single games for archival purposes. <br>
+Back in the early days DarkDawg Lindbergh Multigame Kit was one of few non hacked up multi's for Lindy!<br>
 "We sell a different version that does not have so many hacks and that stays more true to the original.'<br>
-"We can sell you a kit with just VF5 Final Showdown for $145."<br>
 https://www.arcade-projects.com/forums/index.php?thread/139-sega-lindbergh-help/
 
 About a week after Formally introducing: DarkDawg Collaborations, Mitsu started selling the Lindy multi kit. <br>
@@ -74,9 +73,12 @@ https://forums.arcade-museum.com/showthread.php?t=301907
 DarkDawg Collaborations Presents: DarkDawg Lindbergh Multigame Kit<br>
 https://www.youtube.com/watch?v=QEoRf_vhHUo
 
-Single game kits were actually hot for a few years too.<br>
-https://www.arcade-projects.com/forums/index.php?thread/928-is-it-possible-to-un-multikit-a-lindbergh-multikit-multigame-system/<br>
+Mitsu also sold single games for archival purposes, in fact single game kits were actually hot for a few years!<br>
 "I can get you a single game kit probably. What game do you want?"
+https://www.arcade-projects.com/forums/index.php?thread/928-is-it-possible-to-un-multikit-a-lindbergh-multikit-multigame-system/<br>
+
+"We can sell you a kit with just VF5 Final Showdown for $145."<br>
+https://www.arcade-projects.com/forums/index.php?thread/139-sega-lindbergh-help/
 
 # Stage Two:
 Over time the scene evolved and tools were shared. Discussions were often censored, and the tools always disappeared for some reason. 
