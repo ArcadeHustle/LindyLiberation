@@ -110,6 +110,7 @@ https://archive.f-secure.com/weblog/archives/Jarno_Niemela_its_signed.pdf
 
 Giansanti's Lindbergh work was done under the monikers Jackalus, Reaver, among others such a Junnumane<br>
 https://www.instagram.com/junnumane/?hl=en<br>
+
 "I doubt he will reveal the technical secrets behind that hack as it might dry out his source of income from it, but I hope I am wrong."<br>
 http://forum.arcadecontrols.com/index.php?topic=149079.0
 
