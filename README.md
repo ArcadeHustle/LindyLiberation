@@ -41,7 +41,7 @@ There are of course several Lindy variants, "I have red, blue, yellow, silver"<b
 https://www.arcade-projects.com/forums/index.php?thread/2184-lindbergh-differences/&pageNo=1
 
 This specifically means that the Lindbergh Blue series can be considered End of Life.<br>
-<img src="https://github.com/ArcadeHustle/LindyLiberation/blob/master/lindbergh_blue.jpg"></img>
+<img src="https://github.com/ArcadeHustle/LindyLiberation/blob/master/lindbergh_blue.jpg">
 
 Enough StarHorse2 parts have been sold on YAJ, it is a fair time to help folks attempt to restore these wonderful machines.<br>
 [![Star Hourse 2](https://img.youtube.com/vi/aP7bx_g3yJo/0.jpg)](https://www.youtube.com/watch?v=aP7bx_g3yJo)
@@ -58,7 +58,7 @@ https://forums.arcade-museum.com/showthread.php?t=301907
 Although not widely discussed, some of you remembered:<br> 
 "This wasn't developed by us, it was developed for us... agreement to sell as a kit in the Americas"<br>
 "We will sell it in those regions, and provide support for it"<br>
-[![Mitsu slanging Lindy](https://img.youtube.com/vi/QEoRf_vhHUo/0.jpg)](https://www.youtube.com/watch?v=QEoRf_vhHUo?t=683)
+https://youtu.be/QEoRf_vhHUo?t=683
 
 "He's not the one that made it, he just acquired the rights to sell it, I could be wrong"<br>
 https://youtu.be/UGPNoUuQrgk?t=149
