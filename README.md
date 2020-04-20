@@ -43,10 +43,10 @@ https://www.arcade-projects.com/forums/index.php?thread/2184-lindbergh-differenc
 This specifically means that the Lindbergh Blue series can be considered End of Life.<br>
 <img src="https://github.com/ArcadeHustle/LindyLiberation/blob/master/lindbergh_blue.jpg"></img>
 
-Enough StarHorse2 parts have been sold on YAJ, that it is a fair time to help folks attempting to restore these wonderful machines.<br>
+Enough StarHorse2 parts have been sold on YAJ, it is a fair time to help folks attempt to restore these wonderful machines.<br>
 [![Star Hourse 2](https://img.youtube.com/vi/aP7bx_g3yJo/0.jpg)](https://www.youtube.com/watch?v=aP7bx_g3yJo)
 
-It is also clear there are several closet Derby Owners Club installs that require restoration work so people can still <a href="https://segaretro.org/Derby_Owners_Club_2008:_Feel_the_Rush">Feel The Rush"</a>!<br>
+It's also clear there are several Derby Owners Club installs that require restoration work so people can still <a href="https://segaretro.org/Derby_Owners_Club_2008:_Feel_the_Rush">Feel The Rush"</a>!<br>
 <img src="https://github.com/ArcadeHustle/LindyLiberation/blob/master/DerbyOwnersClub2008_logo.png"></img>
 
 Lucky for you, after nearly 7 years of sales, the WalsDawg Lindbergh Multi is no longer a viable cash cow, so we are comfortable sharing more info on the system. 
