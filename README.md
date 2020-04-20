@@ -123,7 +123,13 @@ https://teknogods.github.io/compatibility/lindbergh-red-ex.htm<br>
 https://sega-lindbergh-underground.blogspot.com/2019/01/multi-jackalus-crediar.html<br>
 https://translate.google.com/translate?sl=auto&tl=en&u=https%3A%2F%2Fsega-lindbergh-underground.blogspot.com%2F2019%2F01%2Fmulti-jackalus-crediar.html<br>
 
-DarkDawg Collaborations was able to protect the Kit very well and maximize profits, both via censorship, and amazing technical means. They were beautiful<br>
+"[Tuto] Multiboot Free Lindbergh Crediar"
+http://www.neo-arcadia.com/forum/viewtopic.php?t=61702
+
+"Sega Lindbergh nedir? MultiGame Kurulumu"
+http://www.commodore.gen.tr/forum/index.php?topic=15177.0
+
+DarkDawg Collaborations was able to protect their Kit very well and maximize profits, both via censorship, and amazing technical means. They were beautiful<br>
 https://forums.arcade-museum.com/showthread.php?t=269120<br>
 <img src="https://github.com/ArcadeHustle/LindyLiberation/blob/master/RetroLindyMulti.jpeg"></img>
 
